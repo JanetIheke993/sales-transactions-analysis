@@ -119,8 +119,8 @@ Conditional formatting numeric conversion rule: =VALUE(SUBSTITUTE(SUBSTITUTE($F2
 
 9. Recommendations for next steps
     
-1. Load the cleaned dataset into Power BI or Tableau for interactive dashboards and filters (slicers) across multiple visualizations.
-2. Add time-series analysis (monthly trends, seasonality) and forecasts.
-3. Implement cohort or RFM analysis to identify high-value customers and retention opportunities.
-4. Consider storing the cleaned dataset as a CSV or in a database for reuse and reproducibility.
+   Load the cleaned dataset into Power BI or Tableau for interactive dashboards and filters (slicers) across multiple visualizations.
+   Add time-series analysis (monthly trends, seasonality) and forecasts.
+   Implement cohort or RFM analysis to identify high-value customers and retention opportunities.
+   Consider storing the cleaned dataset as a CSV or in a database for reuse and reproducibility.
 
